@@ -1,0 +1,7 @@
+{
+  "name": "MA-FA General Kft. - Tető látványterv készítő",
+  "description": "Komplex ácsipari mobilalkalmazás tetőkonfigurátorral, AI vizualizációval és ajánlatkérési modullal a MA-FA General Kft. részére.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
